@@ -37,4 +37,5 @@ git clone https://github.com/your_username/997Dream.git
 ![e95b858a20b422db6fa0658ccc07de6](https://github.com/fengye7/997Dream/assets/117179005/cda65f78-f717-4c9e-9e58-107bc934d421)
 ![c081565b8fc6d98629b26a7f01613d8](https://github.com/fengye7/997Dream/assets/117179005/c297da7a-e48a-48e0-9a4c-0c998f0604c8)
 点击以下链接查看游戏的演示视频：
-![](https://www.bilibili.com/video/BV1cj421S7u7/)
+[![游戏演示视频]()](https://www.bilibili.com/video/BV1cj421S7u7/)
+
